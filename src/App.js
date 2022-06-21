@@ -1,5 +1,4 @@
 import { MapContainer, TileLayer, useMap, Marker, Popup } from "react-leaflet";
-import "./App.css";
 import bg_img from "./images/pattern-bg.png";
 
 function App() {
