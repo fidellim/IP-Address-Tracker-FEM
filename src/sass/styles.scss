@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;700&display=swap');
+
+// Colors
+$veryDarkGray: hsl(0, 0%, 17%);
+$darkGray: hsl(0, 0%, 59%);
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 18px;
+    font-family: 'Rubik', sans-serif;
+}
+
+img {
+    display: block;
+}
+
+.bg_img {
+    height: 30vh;
+    opacity: .95;
+}
+
+.infoContainer {
+    position: absolute;
+    z-index: 1;
+}
