@@ -41,12 +41,13 @@ Exposing your API Key publicly can lead to other people using it to make request
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Desktop Solution](./images/solution-desktop.png)
+![Mobile Solution](./images/solution-mobile.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://github.com/fidellim/IP-Address-Tracker-FEM)
+- Live Site URL: [Live Site](https://ip-address-tracker-fem-fidellim.netlify.app/)
 
 ## My process
 
