@@ -80,12 +80,11 @@ const App = () => {
 								<input
 									type="text"
 									name="ip address search"
-									id=""
 									value={ipAddress}
 									onChange={handleIpAddress}
 									placeholder="Search for any IP address or domain IP"
 								/>
-								<button onClick={handlePosition}>
+								<button value="" onClick={handlePosition}>
 									<img src={right_arrow} alt="" />
 								</button>
 							</form>
